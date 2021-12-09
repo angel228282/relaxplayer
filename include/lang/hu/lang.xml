@@ -1,0 +1,90 @@
+<?xml version='1.0' standalone='yes'?>
+<language>
+<play>[2] lejátszás</play>
+<stop>stop</stop>
+<next>[3] következő</next>
+<previous>[1] előző</previous>
+<pause>[2] szünet</pause>
+<repeat>ismétlés</repeat>
+<shuffle>véletlenszerű</shuffle>
+<close>bezárás</close>
+<cancel>mégse</cancel>
+<save>mentés</save>
+<add>hozzáadás</add>
+<remove>eltávolítás</remove>
+<load>betöltés</load>
+<login>Bejelentkezés</login>
+<logout>Kijelentkezés</logout>
+<pos>No.</pos>
+<volume>[Q-] Hangerő [W+]</volume>
+<xfade>átkeverés</xfade>
+<output>Kimenet</output>
+<playlist>Műsorlista</playlist>
+<file>Fájlnév</file>
+<title>Cím</title>
+<genre>Műfaj</genre>
+<artist>Előadó</artist>
+<album>Album</album>
+<disc>Disc</disc>
+<time>Ideje</time>
+<date>Dátum</date>
+<comment>Megjegyzés</comment>
+<any>Mind</any>
+<remaining>Hátralévő</remaining>
+<loading>Betöltés....</loading>
+<pl_save>Mentés</pl_save>
+<pl_append>Hozzáfűzés</pl_append>
+<pl_replace>Csere</pl_replace>
+<pl_delete>Törlés</pl_delete>
+<pl_rename>Átnevezés</pl_rename>
+<now_playing>lejátszás alatt</now_playing>
+<tab_folder>Mappa</tab_folder><tab_files>Minden fájl</tab_files>
+<tab_search>Keresés</tab_search>
+<tab_playlists>Műsorlisták</tab_playlists>
+<tab_tracks>Zeneszámok</tab_tracks>
+<menu_play_current>Zeneszám lejátszása [P]</menu_play_current>
+<menu_up>Mozgatás fel... [up]</menu_up>
+<menu_down>Mozgatás le... [down]</menu_down>
+<menu_rem_selected>Kiválasztott törlése... [DEL]</menu_rem_selected>
+<menu_clear_old>Régiek eltávolítása... [O]</menu_clear_old>
+<menu_clear>Műsorlista törlése... [C]</menu_clear>
+<menu_select>Összes kijelölése... [S]</menu_select>
+<menu_deselect>Összes kijelölés megszüntetése... [D]</menu_deselect>
+<menu_append>Kiválasztott hozzáfűzése... [SPC]</menu_append>
+<menu_radio>Rádió stream hozzáfűzése... [R]</menu_radio>
+<menu_savepl>Műsorlista mentése... [N]</menu_savepl>
+<menu_fileinfo>Fájl információk... [I]</menu_fileinfo>
+<error>Hiba</error>
+<error_notracks>Nincs kiválasztott zeneszám a műsorlistában!</error_notracks>
+<error_nofiles>Nincs találat!</error_nofiles>
+<error_connect>Nem sikerült kapcsolódni az MPD daemonhoz.\n Valószínűleg újraindítás szükséges.</error_connect>
+<error_allowed>Parancsvégrehajtás siketelen!\nOk: Névtelen felhasználóknak ez nem endedélyezett.</error_allowed>
+<error_mpd>Parancsvégrehajtás siketelen!\n Ok: A lejátszónak nincs erre jogosultsága.\nEllenőrizd az MPD daemon jelszavát és jogait.</error_mpd>
+<error_login>Parancsvégrehajtás siketelen!!\n Ok: Előbb jelentkezz be.</error_login>
+<error_password>Belépés megtagadva!\n Ok: Rossz felhasználónév vagy jelszó.</error_password>
+<success_login>Sikeres belépés</success_login>
+<success_logout>Sikeres kilépés</success_logout>
+<search_for>Keresés:</search_for>
+<search_in>ebben:</search_in>
+<name>Név</name>
+<username>Felhasználónév</username>
+<administrator>Admin név</administrator>
+<password>Jelszó</password>
+<config>Beállítások</config>
+<dialog_info>Számok információi és MPD statisztikák</dialog_info>
+<dialog_radio>Rádió stream hozzáadása</dialog_radio>
+<stat_current>Jelenlegi hang</stat_current>
+<stat_db>Adatbázis</stat_db>
+<stat_audio>Audio</stat_audio>
+<stat_bit>Bitráta</stat_bit>
+<stat_songs>Számok</stat_songs>
+<stat_artists>Előadók</stat_artists>
+<stat_albums>Albumok</stat_albums>
+<stat_playtime>Lejátszási idő</stat_playtime>
+<adm_updatedb>DB frissítése</adm_updatedb>
+<adm_template>Szkin</adm_template>
+<adm_language>Nyelv</adm_language>
+<adm_rights>Névtelen jogok</adm_rights>
+<adm_settings>Beállítások</adm_settings>
+<url>URL</url>
+</language>
